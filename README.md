@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+Hi, its test file
